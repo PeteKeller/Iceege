@@ -28,8 +28,8 @@ puts <<ENDTEXT
 <link rel="icon" 
       type="image/png" 
       href="images/favicon.ico">
-<link rel=\"stylesheet\" type=\"text/css\" href=\"shintolin.css\"/>
 <title>Chat</title>
+<link rel=\"stylesheet\" type=\"text/css\" href=\"iceage.css\"/>
 
 <body>
 <a class="buttonlink" href="game.cgi">Return</a>

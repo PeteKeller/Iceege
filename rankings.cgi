@@ -107,8 +107,8 @@ puts <<ENDTEXT
 <link rel="icon" 
       type="image/png" 
       href="images/favicon.ico">
-<link rel='stylesheet' type='text/css' href='shintolin.css' />
-<title>Shintolin - Rankings</title>
+<title>Iceage - Rankings</title>
+<link rel='stylesheet' type='text/css' href='iceage.css' />
 </head>
 <body>
 It is Year #{game_year}, #{month.to_s} ----- 

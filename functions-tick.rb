@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-load '/var/www/shn/functions.cgi'
+load 'functions.cgi'
 
 def tick_campfires
   campfire_tiles = mysql_select('grid',{'building_id'=>5})

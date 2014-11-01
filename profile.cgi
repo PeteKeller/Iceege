@@ -66,8 +66,8 @@ puts <<ENDTEXT
 <link rel="icon" 
       type="image/png" 
       href="images/favicon.ico">
-<title>Shintolin - #{name}</title>
-<link rel='stylesheet' type='text/css' href='shintolin.css' />
+<title>Iceage - #{name}</title>
+<link rel='stylesheet' type='text/css' href='iceage.css' />
 </head>
 <body>
 ENDTEXT

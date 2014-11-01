@@ -85,7 +85,7 @@ puts <<ENDTEXT
       type="image/png" 
       href="images/favicon.ico">
 <title>Contact list for #{$user.name}</title>
-<link rel='stylesheet' type='text/css' href='shintolin.css' />
+<link rel='stylesheet' type='text/css' href='iceage.css' />
 </head>
 <body>
 <br><br>

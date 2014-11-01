@@ -48,8 +48,8 @@ $map += '</table>'
 
 puts <<ENDTEXT
 <html>
-<head><title>Shintolin - World</title>
-<link rel="stylesheet" type="text/css" href="shintolin.css" />
+<head><title>Iceage - World</title>
+<link rel="stylesheet" type="text/css" href="iceage.css" />
 </head>
 <body>
 <h1>Map</h1>

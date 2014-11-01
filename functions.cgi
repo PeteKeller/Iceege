@@ -1,7 +1,7 @@
-load '/var/www/shn/data.rb'
-load '/var/www/shn/mysql-connect.cgi'
-load '/var/www/shn/functions-html.rb'
-load '/var/www/shn/functions-mysql.rb'
+load 'data.rb'
+load 'mysql-connect.cgi'
+load 'functions-html.rb'
+load 'functions-mysql.rb'
 
 require 'digest/md5'
 require 'parsedate'
@@ -1735,11 +1735,11 @@ def get_validated_id
     return false if user_id == nil
     return false unless validate_user(user_id, encrypt($cgi['password']))
     $cookie = CGI::Cookie.new(
-      'name' => 'shintolin', 
+      'name' => 'iceage', 
       'value' => [user_id.to_s, encrypt($cgi['password'])],
       'expires' => (Time.now + 1800))
   else
-    $cookie = $cgi.cookies["shintolin"]
+    $cookie = $cgi.cookies["iceage"]
     return false if $cookie == nil
     user_id = $cookie[0]
     return false unless validate_user(user_id, $cookie[1])

@@ -23,8 +23,8 @@ puts <<ENDTEXT
 <link rel="icon" 
       type="image/png" 
       href="images/favicon.ico">
-<title>Shintolin - Settle</title>
-<link rel='stylesheet' type='text/css' href='shintolin.css' />
+<title>Iceage - Settle</title>
+<link rel='stylesheet' type='text/css' href='iceage.css' />
 </head>
 <body>
 <h1 class='header'>Create New Settlement</h1>

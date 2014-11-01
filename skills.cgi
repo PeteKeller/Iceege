@@ -36,8 +36,8 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 <link rel="icon" 
       type="image/png" 
       href="images/favicon.ico">
-<title>Shintolin - Skills</title>
-<link rel="stylesheet" type="text/css" href="shintolin.css" />
+<title>Iceage - Skills</title>
+<link rel="stylesheet" type="text/css" href="iceage.css" />
 </head>
 <body>
 <h1>Skills</h1>'

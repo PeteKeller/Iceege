@@ -5,8 +5,8 @@ puts <<ENDTEXT
 <link rel="icon" 
       type="image/png" 
       href="images/favicon.ico">
-<title>Shintolin - Explore. Settle. Trade. Conquer.</title>
-<link rel="stylesheet" type="text/css" href="shintolin.css" />
+<title>Iceage - Conquer. Explore. Settle. Trade.</title>
+<link rel="stylesheet" type="text/css" href="iceage.css" />
 </head>
 <body>
 <div class="bigbox">
@@ -25,8 +25,8 @@ puts <<ENDTEXT
   <a class="buttonlink" href="map.cgi">Map</a>
   <a class="buttonlink" href="contacts.cgi">Contacts</a>
   <a class="buttonlink" href="rankings.cgi">Rankings</a>
-  <a class="buttonlink" href="http://shintolin.forumcircle.com">Forum</a>
-  <a class="buttonlink" href="http://shintolin.wikia.com/wiki/Shintolin">Help/Wiki</a>
+<!--  <a class="buttonlink" href="http://shin tolin.forumcircle.com">Forum</a>
+  <a class="buttonlink" href="http://shin tolin.wikia.com/wiki/Shin tolin">Help/Wiki</a> -->
   <a class="buttonlink" href="faq.html">FAQ</a>
   #{Logout_Button}
 

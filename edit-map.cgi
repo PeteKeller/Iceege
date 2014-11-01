@@ -109,8 +109,8 @@ Region_Select =
 
 puts <<ENDTEXT
 <html>
-<head><title>Shintolin - Edit Map</title>
-<link rel="stylesheet" type="text/css" href="shintolin.css" />
+<head><title>Iceage - Edit Map</title>
+<link rel="stylesheet" type="text/css" href="iceage.css" />
 </head>
 <body>
 <h1>Edit Map</h1>

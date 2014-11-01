@@ -27,8 +27,8 @@ puts <<ENDTEXT
 <link rel="icon" 
       type="image/png" 
       href="images/favicon.ico">
-<title>Shintolin - Map</title>
-<link rel="stylesheet" type="text/css" href="shintolin.css" />
+<title>Iceage - Map</title>
+<link rel="stylesheet" type="text/css" href="iceage.css" />
 </head>
 <body>
 <h1>Map</h1>

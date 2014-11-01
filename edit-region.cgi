@@ -103,8 +103,8 @@ Don't use values beyond -32768 to 32767 (the database uses smallint for x and y)
 
 puts <<ENDTEXT
 <html>
-<head><title>Shintolin - Edit Regions</title>
-<link rel="stylesheet" type="text/css" href="shintolin.css" />
+<head><title>Iceage - Edit Regions</title>
+<link rel="stylesheet" type="text/css" href="iceage.css" />
 </head>
 <body>
 <h1>Edit Regions</h1>
