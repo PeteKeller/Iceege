@@ -1,5 +1,5 @@
 a {
-  color: #407395;
+  color: #336699;
   font-weight: bold;
   text-decoration: none
 }
@@ -20,14 +20,14 @@ hr {
 }
 
 img {
-  border:thick solid #c8c8a0;
+  border:thick solid #CCCC99;
   background-image: url('images/b_parchmentbg_dark.png');
 }
 
 input {
-  color: #000;
+  color: #000000;
   background: #99ccff;
-  border: 2px outset #ccdaff;
+  border: 2px outset #ccccff;
   font-size: 0.8em%;
   font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
   padding: 1px 2px 1px 2px;
@@ -35,9 +35,9 @@ input {
 }
 
 input.text {
-  color: #000;
+  color: #000000;
   background: #ffffff;
-  border: 1px outset #aaaaaa;
+  border: 1px outset #9999FF;
   font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
   margin-bottom: 1px;
   margin-top: 1px
@@ -48,9 +48,9 @@ p {
 }
 
 select {
-  color: #000;
+  color: #000000;
   background: #ffffff;
-  border: 1px outset #aaaaaa;
+  border: 1px outset #9999FF;
   margin: 1px;
   font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif
 }
@@ -107,13 +107,13 @@ textarea {
 }
 
 .unbought {
-  color:#777799
+  color:#666699
 }
 
 .buttonlink {
-  color: #000;
+  color: #000000;
   background: #99ccff;
-  border: 2px outset #ccdaff;
+  border: 2px outset #ccccff;
   font-size: 0.8em;
   font-weight: normal;
   font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
@@ -133,7 +133,7 @@ textarea {
 
 .gamebox {
   padding:2px;
-  border:thick solid #c8c8a0;
+  border:thick solid #9999cc;
   background-image: url('images/parchmentbg_dark.png');
   text-align: left;
 }
@@ -162,7 +162,7 @@ textarea {
 }
 
 .infobox {
-  border:thick solid #c8c8a0;
+  border:thick solid #9999cc;
   width:36em;
 }
 
@@ -189,7 +189,7 @@ textarea {
 .map {
   postion: absolute;
   width: 520px;
-  border:thick solid #c8c8a0;
+  border:thick solid #9999ff;
   background-image: url('images/b_parchmentbg.png');
 }
 
