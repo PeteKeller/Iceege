@@ -2536,10 +2536,10 @@ local_time = Time.utc(gmt_time[5],gmt_time[4],gmt_time[3],gmt_time[2],gmt_time[1
 end
 
 def game_year
-gmt_time = Time.now.to_a 
-game_time = Time.utc(gmt_time[5],gmt_time[4],gmt_time[3],0,0,0)
-game_time = game_time - Time.utc(2009,3,28,0,0,0)
-game_year = game_time.to_i/(12*60*60*24)
+  gmt_time = Time.now.to_a 
+  game_time = Time.utc(gmt_time[5],gmt_time[4],gmt_time[3],0,0,0)
+  game_time = game_time - Time.utc(2014,10,24,0,0,0)
+  game_year = game_time.to_i/(12*60*60*24)
 end
 
 def search(user, magic)
@@ -2724,7 +2724,6 @@ end
 def skill_cost(level)
   (level + 2) * 30
 end
-
 
 def sow(user, item_id, magic)
   if magic != $user.magic
